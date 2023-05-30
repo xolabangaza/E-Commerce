@@ -1,0 +1,58 @@
+/*  JavaScript Styling   */
+/* .card{
+    width: 20%;
+    /* left: 20%; */
+ 
+ 
+ /* .card:nth-child(even){
+     left:52%
+ }  */
+
+ /* .products {
+    position: absolute !important;
+    width: 400px !important;
+    height: 320px !important;
+    background: none !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+ }
+
+ .card {
+    position: relative !important;
+    width: 100% !important;
+    height: 100% !important;
+    transform-style: preserve-3d !important;
+    transition: all 0.8s ease !important;
+ }
+
+ .front {
+    position:absolute;
+    position: absolute !important;
+    width: 100% !important;
+    height: 100% !important;
+    backface-visibility: hidden !important;
+    background: pink !important;
+    color: black !important;
+    text-align: center !important;
+ }
+
+ .back {
+    position: absolute !important;
+    width: 100% !important;
+    height: 100% !important;
+    backface-visibility: hidden !important;
+    background: purple !important;
+    color: black !important;
+    text-align: center !important;
+    transform: rotateY(180deg) !important;
+
+ }
+
+ .flipCard {
+    transform: rotateY(180deg) !important;
+ } */
+ .navbar:hover{
+   background-color:antiquewhite!important;
+
+} 
