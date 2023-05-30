@@ -52,7 +52,6 @@
  .flipCard {
     transform: rotateY(180deg) !important;
  } */
- .navbar:hover{
-   background-color:antiquewhite!important;
+ 
 
-} 
+}
